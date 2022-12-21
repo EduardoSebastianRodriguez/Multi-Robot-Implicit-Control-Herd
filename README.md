@@ -8,7 +8,7 @@ More info at: https://sites.google.com/unizar.es/poc-team/research/mrherding
 
 Video: https://www.youtube.com/watch?v=U5KjP-2H1BM
 
-Arxiv: https://arxiv.org/abs/2206.05888"
+Arxiv: https://arxiv.org/abs/2206.05888
 
 ## Dependencies
 

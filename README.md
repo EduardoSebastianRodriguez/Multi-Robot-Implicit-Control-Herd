@@ -23,7 +23,7 @@ Our code is tested with Python 3.9.12. It depends on the following Python packag
 ## Demo with Adaptive Heterogeneous Herds
 Run the different files in ```codes/AdaptiveHerding/``` to check the performance of Implicit Control in the herding of heterogeneous groups of herds, adapting to the partially unknown dynamics of the evaders to ensure the stability of the system. The file ```functions.py``` includes all the functions that implement the control strategies. The other files adopt the name of the corresponding figure in the paper [Adapative Multirobot Implicit Control of Heterogeneous Herds](https://arxiv.org/abs/2206.05888).
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` Simulations ```  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ``` Experiments ``` 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` Simulations ```  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` Experiments ``` 
 
 <p float="left">
 &nbsp; <img src="figs/simulationComplete.gif" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;

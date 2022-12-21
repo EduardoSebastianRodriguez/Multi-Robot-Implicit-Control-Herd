@@ -21,7 +21,7 @@ Our code is tested with Python 3.9.12. It depends on the following Python packag
 ```scipy 1.7.3```
 
 ## Demo with Adaptive Heterogeneous Herds
-Run ```simulations.py``` to check the performance of Implicit Control in the herding of heterogeneous groups of herds, adapting to the partially unknown dynamics of the evaders to ensure the stability of the system. The file ```functions.py``` includes all the functions that implement the control strategies.
+Run the different files in ```codes/AdaptiveHerding/``` to check the performance of Implicit Control in the herding of heterogeneous groups of herds, adapting to the partially unknown dynamics of the evaders to ensure the stability of the system. The file ```functions.py``` includes all the functions that implement the control strategies. The other files adopt the name of the corresponding figure in the paper [Adapative Multirobot Implicit Control of Heterogeneous Herds](https://arxiv.org/abs/2206.05888).
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` Simulations ``` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ``` Experiments ``` 
 
@@ -31,7 +31,7 @@ Run ```simulations.py``` to check the performance of Implicit Control in the her
 </p>
 
 ## Demo with Massive Herds
-Run ```simulations.py``` to check the performance of Implicit Control in the herding of large groups of herds by means of a few robotic herders. The control strategy includes a dynamic assignment module that selects the evaders that are worth to directly control. More details available at our paper on [Multi-robot Implicit Control of Massive Herds](https://arxiv.org/pdf/2209.09705.pdf). The file ```functions.py``` includes all the functions that implement the control strategy.
+Run ```codes/MassiveHerds/simulations.py``` to check the performance of Implicit Control in the herding of large groups of herds by means of a few robotic herders. The control strategy includes a dynamic assignment module that selects the evaders that are worth to directly control. More details available at our paper on [Multi-robot Implicit Control of Massive Herds](https://arxiv.org/pdf/2209.09705.pdf). The file ```functions.py``` includes all the functions that implement the control strategy.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` 50 inverse evaders vs 4 herders ``` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` 20 exponential evaders vs 3 herders ``` 
 

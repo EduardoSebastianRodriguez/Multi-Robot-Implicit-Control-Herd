@@ -1,6 +1,6 @@
 # Multi-robot Implicit Control of Herds
 
-This repository provides a variety of codes that implement our novel "Implicit Control" technique applied to the multi-robot herding problem. In summary, we have developed a new control strategy, Implicit Control, able to efficiently herd hetereogeneous groups of noncooperative evaders, such as sheep. The intuition behind this methodology consists in driving the input, rather than computing it, toward the unknown value that achieves the desired dynamic behavior of the herd. Thanks to Implicit Control, we are capable of steering groups of heterogeneous herds to desired individually assigned positions simultaneously, drive them towards dynamic references, gather and herd large groups of evaders with just a few rovbots, or adapt to partially unknown evaders' dynamics.
+This repository provides a variety of codes that implement our novel "Implicit Control" technique applied to the multi-robot herding problem. In summary, we have developed a new control strategy, Implicit Control, able to efficiently herd hetereogeneous groups of noncooperative evaders, such as sheeps. The intuition behind this methodology consists in driving the input, rather than computing it, toward the unknown value that achieves the desired dynamic behavior of the herd. Thanks to Implicit Control, we are capable of steering groups of heterogeneous herds to desired individually assigned positions simultaneously, drive them towards dynamic references, gather and herd large groups of evaders with just a few robots, or adapt to partially unknown evaders' dynamics.
 
 We hope you like it!
 
@@ -46,7 +46,7 @@ If you find our papers/code useful for your research, please cite our work as fo
 E. Sebastian, E. Montijano, C. Sagues. [Adapative Multirobot Implicit Control of Heterogeneous Herds](https://arxiv.org/abs/2206.05888), IEEE Transactions on Robotics, vol. 38, no. 6, pp. 3622-3635, Dec. 2022 
 
  ```bibtex
-@ARTICLE{sebastian22Herding,
+@ARTICLE{sebastian22herding,
   author={Sebastián, Eduardo and Montijano, Eduardo and Sagüés, Carlos},
   journal={IEEE Transactions on Robotics}, 
   title={Adaptive Multirobot Implicit Control of Heterogeneous Herds}, 

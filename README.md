@@ -36,7 +36,7 @@ Run ```codes/MassiveHerds/simulations.py``` to check the performance of Implicit
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` 50 inverse evaders vs 4 herders ``` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ``` 20 exponential evaders vs 3 herders ``` 
 
 <p float="left">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="figs/figure2done.gif" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="figs/figure2done.gif" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="figs/figure3adone.gif" height="200">
 </p>
 

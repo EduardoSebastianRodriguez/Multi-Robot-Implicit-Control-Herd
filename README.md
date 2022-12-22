@@ -43,7 +43,7 @@ Run ```codes/MassiveHerds/simulations.py``` to check the performance of Implicit
 ## Citation
 If you find our papers/code useful for your research, please cite our work as follows.
 
-E. Sebastian, E. Montijano, C. Sagues. [Adapative Multirobot Implicit Control of Heterogeneous Herds](https://arxiv.org/abs/2206.05888), IEEE Transactions on Robotics, vol. 38, no. 6, pp. 3622-3635, Dec. 2022 
+E. Sebastian, E. Montijano, C. Sagues. [Adaptive Multirobot Implicit Control of Heterogeneous Herds](https://arxiv.org/abs/2206.05888), IEEE Transactions on Robotics, vol. 38, no. 6, pp. 3622-3635, Dec. 2022 
 
  ```bibtex
 @ARTICLE{sebastian22herding,
